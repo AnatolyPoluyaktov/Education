@@ -1,4 +1,4 @@
-### This repository contains my old projects from :
+### This repository contains my old projects:
 
 - Higher school of economics Labs, projects, courses works and etc 
 - materials from programming online cources I' ve taken part and finished
